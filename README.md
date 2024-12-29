@@ -6,7 +6,8 @@ You can modify this code as you please, it's not final and it's not meant to be 
 
 ## How to run
 
-Before starting make sure you meet the requirements for env variables creating a `.env` file with the variable names set at `/environment/environment.js`
+Before starting make sure you meet the requirements for env variables creating an `.env` file with the variable names set at:
+* [Environment](/environment/environment.js)
 
 ```bash
 # install dependencies
