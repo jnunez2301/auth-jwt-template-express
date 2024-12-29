@@ -36,7 +36,7 @@ app.use(morgan(":method :url :status :date"))
 
 app.get('/', (req, res) => {
   res.json({
-    message: "Routine this just made it to Init!\n v0.0.1"
+    message: "Server is up and running!\n v0.0.1"
   })
 })
 
