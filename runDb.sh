@@ -40,7 +40,7 @@ echo "-------------------------------------------------------------"
 echo "[+] - Run the next command to test it"
 echo 'mongosh --username admin --password admin'
 echo "show dbs"
-
+echo "----You can close this window whenever you want just make sure you don't run the command again if you want to persist data"
 # Enter the running container after the command is executed
 docker exec -it $containerName bash
 
